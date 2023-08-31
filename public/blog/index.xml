@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on xbucd</title>
-    <link>https://examplesite.com/blog/</link>
+    <link>example.com/blog/</link>
     <description>Recent content in Blogs on xbucd</description>
     <image>
       <title>xbucd</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>example.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>example.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="example.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test</title>
-      <link>https://examplesite.com/blog/first/</link>
+      <title>Favorite Quotes</title>
+      <link>example.com/blog/favourite/</link>
       <pubDate>Tue, 15 Aug 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/blog/first/</guid>
+      <guid>example.com/blog/favourite/</guid>
+      <description>description</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>example.com/blog/first/</link>
+      <pubDate>Tue, 15 Aug 2023 11:30:03 +0000</pubDate>
+      
+      <guid>example.com/blog/first/</guid>
       <description>description</description>
     </item>
     
